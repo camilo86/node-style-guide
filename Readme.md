@@ -19,7 +19,6 @@ according to your preferences.
 
 ### Formatting
 * [2 Spaces for indentation](#2-spaces-for-indentation)
-* [Newlines](#newlines)
 * [No trailing whitespace](#no-trailing-whitespace)
 * [Use Semicolons](#use-semicolons)
 * [80 characters per line](#80-characters-per-line)
@@ -64,11 +63,6 @@ You may want to use [editorconfig.org](http://editorconfig.org/) to enforce the 
 
 Use 2 spaces for indenting your code and swear an oath to never mix tabs and
 spaces - a special kind of hell is awaiting you otherwise.
-
-### Newlines
-
-Use UNIX-style newlines (`\n`), and a newline character as the last character
-of a file. Windows-style newlines (`\r\n`) are forbidden inside any repository.
 
 ### No trailing whitespace
 
